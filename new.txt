@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 70D6-EED2
+
+ Directory of C:\Users\Mohan\Desktop\JavaProject1
+
+08/25/2017  07:48 PM    <DIR>          .
+08/25/2017  07:48 PM    <DIR>          ..
+08/25/2017  07:42 PM               665 Hello.class
+08/25/2017  07:23 PM               134 Hello.java
+08/25/2017  07:48 PM                 0 new.txt
+               3 File(s)            799 bytes
+               2 Dir(s)  10,042,085,376 bytes free
